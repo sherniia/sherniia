@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aias!
-- 👀 I’m interested in data science, physics, martial arts, music and fitness!
-- 🌱 I’m currently working on obtaining a bachelor in Physics.
+- 👀 I’m interested in machine learning, computer vision, statistical modeling, astrophysics, martial arts, music and fitness!
 - 📫 Reach me on [LinkedIn](www.linkedin.com/in/sherniiazov)
 
 
